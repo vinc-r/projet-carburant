@@ -6,11 +6,8 @@ Vincent.Rosset@polytech-lille.net
 
 
 
-## Première feuille : Conversion des xml en csv
+## Première et Seconde feuille : Conversion des xml en csv & Typage des données
 https://colab.research.google.com/drive/19BHw_w1j96MfPINzfGk9-EISbfcnKhKj
 
-## Seconde feuille: Typage des données
-https://colab.research.google.com/drive/1xUVucWQb6n3P_9tKMJFpnArjGYziG5i4
-
 ## Troisième feuille: Découverte graphique des données
-TODO
+https://colab.research.google.com/drive/1GK7TAh_qdGoGLDlZE_dv5bYF4B0S0hG0
